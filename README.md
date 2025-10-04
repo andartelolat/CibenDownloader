@@ -51,8 +51,8 @@ Python packages (intinya):
 ## Instalasi
 
 ```bash
-git clone https://github.com/andartelolat/<repo-kamu>.git
-cd <repo-kamu>
+git clone https://github.com/andartelolat/CibenDownloader.git 
+cd CibenDownloader
 
 # Buat venv (opsional tapi disarankan)
 python -m venv .venv
