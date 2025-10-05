@@ -289,7 +289,7 @@ html_form = """
     <section class="mt-6 text-xs text-gray-800/90 dark:text-gray-300/90 text-center">
       <p>
         Semoga Bermanfaat, support
-        <a href="https://teer.id/iben21" target="_blank" rel="noopener" class="underline underline-offset-4 hover:text-red-500">GitHub Repo</a>
+        <a href="https://teer.id/iben21" target="_blank" rel="noopener" class="underline underline-offset-4 hover:text-red-500">Trakteer</a>
       </p>
     </section>
   </main>
